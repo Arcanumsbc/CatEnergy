@@ -1,3 +1,6 @@
+### Для просмотра готового сайта
+https://arcanumsbc.github.io/2151871-cat-energy-27/
+
 # Личный проект «Кэт энерджи»
 
 * Студент: [Игорь Коросткин](https://up.htmlacademy.ru/adaptive/27/user/2151871).
