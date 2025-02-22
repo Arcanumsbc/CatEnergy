@@ -1,5 +1,5 @@
 ### Для просмотра готового сайта
-https://arcanumsbc.github.io/2151871-cat-energy-27/
+https://arcanumsbc.github.io/CatEnergy/
 
 # Личный проект «Кэт энерджи»
 
